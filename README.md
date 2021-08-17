@@ -21,7 +21,7 @@ Use "A,S,D,F,G,H,J,K & L" to play the sounds listed.
 
 ## License
 
- undefined
+ None
 
 ## Tech
 
