@@ -34,3 +34,7 @@ HTML, CSS & JavaScript
 Goal is to add other instruments that the user can switch to.
 ## Tests
 None
+
+### Known bugs
+* Font is different on iPhone
+* Sounds do not play on touch/click
