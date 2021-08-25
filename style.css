@@ -21,7 +21,8 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: stencil Std, fantasy;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
   text-align: center;
   font-size: 8vw;
   margin-top: 4vw;
