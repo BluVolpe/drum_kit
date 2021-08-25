@@ -13,11 +13,12 @@ A Drum Kit that plays sounds based on what keys are press on the clients keyboar
 - [Technologies](#tech)
 - [Image](#img)
 - [Contribution](#contribution)
+
 ## Installation
 None
 
 ## Usage
-Use "A,S,D,F,G,H,J,K & L" to play the sounds listed.
+Use "A,S,D,F,G,H,J,K & L" to play the sounds listed or click on the sounds you want played.
 
 ## License
 
@@ -36,5 +37,4 @@ Goal is to add other instruments that the user can switch to.
 None
 
 ### Known bugs
-* Font is different on iPhone
-* Sounds do not play on touch/click
+* None
