@@ -19,6 +19,62 @@ document.getElementById("a").addEventListener("click", function() {
   
 });
 
+document.getElementById("s").addEventListener("click", function() {
+  let a = new Audio("sounds/hihat.wav");
+  this.classList.add("playing");
+  a.play()
+  
+});
+
+document.getElementById("d").addEventListener("click", function() {
+  let a = new Audio("sounds/kick.wav");
+  this.classList.add("playing");
+  a.play()
+  
+});
+
+document.getElementById("f").addEventListener("click", function() {
+  let a = new Audio("sounds/openhat.wav");
+  this.classList.add("playing");
+  a.play()
+  
+});
+
+document.getElementById("g").addEventListener("click", function() {
+  let a = new Audio("sounds/boom.wav");
+  this.classList.add("playing");
+  a.play()
+  
+});
+
+document.getElementById("h").addEventListener("click", function() {
+  let a = new Audio("sounds/ride.wav");
+  this.classList.add("playing");
+  a.play()
+  
+});
+
+document.getElementById("j").addEventListener("click", function() {
+  let a = new Audio("sounds/snare.wav");
+  this.classList.add("playing");
+  a.play()
+  
+});
+
+document.getElementById("k").addEventListener("click", function() {
+  let a = new Audio("sounds/tom.wav");
+  this.classList.add("playing");
+  a.play()
+  
+});
+
+document.getElementById("l").addEventListener("click", function() {
+  let a = new Audio("sounds/tink.wav");
+  this.classList.add("playing");
+  a.play()
+  
+});
+
 function removeTransition(event) {
   // console.log(event);
   if (event.propertyName !== "transform") {
