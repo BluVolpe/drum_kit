@@ -3,7 +3,7 @@
 
   
 ## Description
-A Drum Kit that plays sounds based on what keys are press on the clients keyboard. 
+A Drum Kit that plays sounds based on what keys are pressed on the clients keyboard. Sounds can also be played on click with either mouse or phone.
 
 ## Table of Contents 
 - [Installation](#installation)
@@ -33,8 +33,9 @@ HTML, CSS & JavaScript
 
 ## Contribution
 Goal is to add other instruments that the user can switch to.
+
 ## Tests
 None
 
 ### Known bugs
-* None
+* If sounds are repeatedly pressed too fast the element border will stay lit.
