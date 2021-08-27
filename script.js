@@ -14,6 +14,8 @@ function playSound(event) {
 
 document.getElementById("a").addEventListener("click", function() {
   let a = new Audio("sounds/clap.wav");
+  if (!a) return;
+  a.currentTime = 0;
   this.classList.add("playing");
   a.play()
   
